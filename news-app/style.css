@@ -1,0 +1,91 @@
+.navbar-nav{
+	display: flex !important;
+	justify-content: center !important ;
+}
+.nav-link {
+	color: #fff !important;
+	font-weight: bold !important;
+	   /* margin-left: 127px;
+	    padding: none;*/
+	  
+}
+#nav-bar-styles{
+	
+	background-color: black !important;
+	border-bottom: 4px solid gold !important;
+}
+.nav-link:hover {
+	background-color: red;
+}
+.header {
+
+}
+#humburger-bar {
+	color: #fff;
+}
+.all-social {
+	width: 119px;
+    height: 29px;
+   /* margin-left: 30px;*/
+}
+.social {
+	/*display: flex;
+	justify-content: center;*/
+	
+	
+}
+.search-box {
+       display: flex;
+       justify-content:flex-end;
+       align-items: center;
+}
+.news-input {
+	width: 215px;
+}
+.social-handler {
+	  display: flex;
+       justify-content:center;
+       align-items: flex-end;
+       flex-direction: column;
+}
+.check {
+	display: flex !important;
+	justify-content: center;
+	align-items: center;
+}
+.carousel-inner{
+ height: 320px;
+}
+#slides-img {
+	height: 302px;
+}
+
+@media screen and (max-width: 700px) {
+    .logo {
+       text-align: center;
+    }
+}
+.navbar-collapse {
+	justify-content: center !important;
+}
+li{
+	 
+	
+}
+
+.world-news-tab /*.sport-news-tab, .tech-news-tab*/  {
+	display: flex;
+	align-items: center;
+}
+
+.ad {
+	    display: inline-block;
+  	margin-left:  649px;
+    height: 246px;
+    border: 3px solid darkgrey;
+}
+
+.teck-karo {
+    width: 307px;
+    height: 246px;
+}
